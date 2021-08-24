@@ -1,0 +1,901 @@
+@font-face {
+    font-family: 'CEDU';
+    src: url('../fonts/CEDU.eot');
+    src: url('../fonts/CEDU.eot?bhz2mv#iefix') format('embedded-opentype'),
+         url('../fonts/CEDU.ttf?bhz2mv') format('truetype'),
+        url('../fonts/CEDU.woff?bhz2mv') format('woff'), 
+        url('../fonts/CEDU.svg?bhz2mv#CEDU') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+[class^="cedu-"], [class*=" cedu-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'CEDU' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cedu-navi-home:before {
+    content: "\a001";
+}
+
+.cedu-navi-sy-config:before {
+    content: "\a002";
+}
+
+.cedu-navi-settings:before {
+    content: "\a003";
+}
+
+.cedu-navi-training:before {
+    content: "\a004";
+}
+
+.cedu-navi-user:before {
+    content: "\a005";
+}
+
+.cedu-navi-achv:before {
+    content: "\a006";
+}
+
+.cedu-navi-public-sy:before {
+    content: "\a007";
+}
+
+.cedu-navi-finance:before {
+    content: "\a008";
+}
+
+.cedu-navi-complete-crs:before {
+    content: "\a009";
+}
+
+.cedu-navi-chart:before {
+    content: "\a010";
+}
+
+.cedu-navi-supervise:before {
+    content: "\a011";
+}
+
+.cedu-navi-message:before {
+    content: "\a012";
+}
+
+.cedu-navi-mail:before {
+    content: "\a013";
+}
+
+.cedu-navi-crs-rsrc:before {
+    content: "\a014";
+}
+
+.cedu-navi-tch-work:before {
+    content: "\a015";
+}
+
+.cedu-navi-job:before {
+    content: "\a016";
+}
+
+.cedu-navi-lineTraining:before {
+    content: "\a017";
+}
+
+.cedu-navi-field:before {
+    content: "\a018";
+}
+
+.cedu-navi-actmana:before {
+    content: "\a019";
+}
+
+.cedu-navi-actmove:before {
+    content: "\a020";
+}
+
+.cedu-navi-actorgunit:before {
+    content: "\a021";
+}
+
+.cedu-navi-orguser:before {
+    content: "\a022";
+}
+
+.cedu-navi-teaching:before {
+    content: "\a023";
+}
+
+.cedu-navi-teachingevaluationmana:before {
+    content: "\a024";
+}
+
+.cedu-navi-shuangchuang:before {
+    content: "\a025";
+}
+
+.cedu-navi-activityapprove:before {
+    content: "\a026";
+}
+
+.cedu-navi-declaration:before {
+    content: "\a027";
+}
+
+.cedu-navi-putintoeffect:before {
+    content: "\a028";
+}
+
+.cedu-navi-shengyajc:before {
+    content: "\a029";
+}
+
+.cedu-navi-recruit:before {
+    content: "\a030";
+}
+
+.cedu-navi-report:before {
+    content: "\a031";
+}
+
+.cedu-navi-financeManage:before {
+    content: "\a032";
+}
+
+.cedu-navi-dorm:before {
+    content: "\a033";
+}
+
+.cedu-navi-dress:before {
+    content: "\a034";
+}
+
+.cedu-navi-reception:before {
+    content: "\a035";
+}
+
+.cedu-navi-home2:before {
+    content: "\a036";
+}
+
+.cedu-navi-show:before {
+    content: "\a037";
+}
+
+.cedu-navi-settings2:before {
+    content: "\a038";
+}
+
+.cedu-navi-consumer:before {
+    content: "\a039";
+}
+
+.cedu-navi-teacher:before {
+    content: "\a040";
+}
+
+.cedu-navi-enterprise:before {
+    content: "\a041";
+}
+
+.cedu-navi-academy:before {
+    content: "\a042";
+}
+
+.cedu-navi-beginClass:before {
+    content: "\a043";
+}
+
+.cedu-navi-check:before {
+    content: "\a044";
+}
+
+.cedu-navi-employmentGuidance:before {
+    content: "\a045";
+}
+
+.cedu-navi-supervisor:before {
+    content: "\a046";
+}
+
+.cedu-navi-LearningAnalysis:before {
+    content: "\a047";
+}
+
+.cedu-navi-webMall:before {
+    content: "\a048";
+}
+
+.cedu-navi-module:before {
+    content: "\a049";
+}
+
+.cedu-navi-collapse:before {
+    content: "\b001";
+}
+
+.cedu-navi-extend:before {
+    content: "\b002";
+}
+
+.cedu-search:before {
+    content: "\b003";
+}
+
+.cedu-delete:before {
+    content: "\b004";
+}
+
+.cedu-add:before {
+    content: "\b005";
+}
+
+.cedu-import:before {
+    content: "\b006";
+}
+
+.cedu-export:before {
+    content: "\b007";
+}
+
+.cedu-back:before {
+    content: "\b008";
+}
+
+.cedu-edit:before {
+    content: "\b009";
+}
+
+.cedu-time:before {
+    content: "\b010";
+}
+
+.cedu-upload:before {
+    content: "\b011";
+}
+
+.cedu-download:before {
+    content: "\b012";
+}
+
+.cedu-link:before {
+    content: "\b013";
+}
+
+.cedu-settings:before {
+    content: "\b014";
+}
+
+.cedu-folder:before {
+    content: "\b015";
+}
+
+.cedu-print:before {
+    content: "\b016";
+}
+
+.cedu-show:before {
+    content: "\b017";
+}
+
+.cedu-hide:before {
+    content: "\b018";
+}
+
+.cedu-save:before {
+    content: "\b019";
+}
+
+.cedu-favorite:before {
+    content: "\b020";
+}
+
+.cedu-info:before {
+    content: "\b021";
+}
+
+.cedu-enabled:before {
+    content: "\b022";
+}
+
+.cedu-disable:before {
+    content: "\b023";
+}
+
+.cedu-adjust:before {
+    content: "\b024";
+}
+
+.cedu-forbidden:before {
+    content: "\b025";
+}
+
+.cedu-end:before {
+    content: "\b026";
+}
+
+.cedu-copy:before {
+    content: "\b027";
+}
+
+.cedu-cancel:before {
+    content: "\b028";
+}
+
+.cedu-complete-crs:before {
+    content: "\b029";
+}
+
+.cedu-exam-form:before {
+    content: "\b030";
+}
+
+.cedu-tree:before {
+    content: "\b031";
+}
+
+.cedu-arrange:before {
+    content: "\b032";
+}
+
+.cedu-success:before {
+    content: "\b033";
+}
+
+.cedu-fail:before {
+    content: "\b034";
+}
+
+.cedu-caution:before {
+    content: "\b035";
+}
+
+.cedu-plan:before {
+    content: "\b036";
+}
+
+.cedu-crs:before {
+    content: "\b037";
+}
+
+.cedu-crs-required:before {
+    content: "\b038";
+}
+
+.cedu-crs-elective:before {
+    content: "\b039";
+}
+
+.cedu-progress:before {
+    content: "\b040";
+}
+
+.cedu-file:before {
+    content: "\b041";
+}
+
+.cedu-file-word:before {
+    content: "\b042";
+}
+
+.cedu-file-excel:before {
+    content: "\b043";
+}
+
+.cedu-file-ppt:before {
+    content: "\b044";
+}
+
+.cedu-file-pdf:before {
+    content: "\b045";
+}
+
+.cedu-file-text:before {
+    content: "\b046";
+}
+
+.cedu-file-code:before {
+    content: "\b047";
+}
+
+.cedu-file-archive:before {
+    content: "\b048";
+}
+
+.cedu-file-audio:before {
+    content: "\b049";
+}
+
+.cedu-file-video:before {
+    content: "\b050";
+}
+
+.cedu-audio:before {
+    content: "\b051";
+}
+
+.cedu-attachment:before {
+    content: "\b052";
+}
+
+.cedu-video:before {
+    content: "\b053";
+}
+
+.cedu-exam:before {
+    content: "\b054";
+}
+
+.cedu-activity:before {
+    content: "\b055";
+}
+
+.cedu-study:before {
+    content: "\b056";
+}
+
+.cedu-user:before {
+    content: "\b057";
+}
+
+.cedu-lock:before {
+    content: "\b058";
+}
+
+.cedu-captcha:before {
+    content: "\b059";
+}
+
+.cedu-file-empty:before {
+    content: "\b060";
+}
+
+.cedu-countdown:before {
+    content: "\b061";
+}
+
+.cedu-refresh:before {
+    content: "\b062";
+}
+
+.cedu-classroom:before {
+    content: "\b063";
+}
+
+.cedu-teacher:before {
+    content: "\b064";
+}
+
+.cedu-simulation:before {
+    content: "\b065";
+}
+
+.cedu-code:before {
+    content: "\b066";
+}
+
+.cedu-text:before {
+    content: "\b067";
+}
+
+.cedu-video2:before {
+    content: "\b068";
+}
+
+.cedu-courseTutoring:before {
+    content: "\b069";
+}
+
+.cedu-curriculumDesign:before {
+    content: "\b070";
+}
+
+.cedu-loser:before {
+    content: "\b071";
+}
+
+.cedu-achiever:before {
+    content: "\b072";
+}
+
+.cedu-web-Courseware:before {
+    content: "\b073";
+}
+
+.cedu-anyTime-test:before {
+    content: "\b074";
+}
+
+.cedu-simple-test:before {
+    content: "\b075";
+}
+
+.cedu-subject-discussion:before {
+    content: "\b076";
+}
+
+.cedu-proposition-busywork:before {
+    content: "\b077";
+}
+
+.cedu-broadcast-activities:before {
+    content: "\b078";
+}
+
+
+.cedu-proposition-homework:before {
+    content: "\c001";
+}
+
+.cedu-self-proposition-homework:before {
+    content: "\c002";
+}
+
+.cedu-share-discussion:before {
+    content: "\c003";
+}
+
+.cedu-wiki:before {
+    content: "\c004";
+}
+
+.cedu-grinding-course:before {
+    content: "\c005";
+}
+
+.cedu-video-interlocution:before {
+    content: "\c006";
+}
+
+.cedu-debate:before {
+    content: "\c007";
+}
+
+.cedu-questionnaire:before {
+    content: "\c008";
+}
+
+.cedu-discussion:before {
+    content: "\c009";
+}
+
+.cedu-activities:before { /*cedu-activity*/
+    content: "\c010";
+}
+
+.cedu-online-exam:before {
+    content: "\c011";
+}
+
+.cedu-groupwiki:before {
+    content: "\c012";
+}
+
+.cedu-groupdiscussion-share:before {
+    content: "\c013";
+}
+
+.cedu-group-discussion:before {
+    content: "\c014";
+}
+
+.cedu-Sofa:before {
+    content: "\c015";
+}
+
+.cedu-FAQ2:before {
+    content: "\c016";
+}
+
+.cedu-review-history:before {
+    content: "\c017";
+}
+
+.cedu-left-right-structures:before {
+    content: "\c018";
+}
+
+.cedu-up-down-structures:before {
+    content: "\c019";
+}
+
+.cedu-pop-up:before {
+    content: "\c020";
+}
+
+.cedu-Courseware:before {
+    content: "\c021";
+}
+
+.cedu-Return:before {
+    content: "\c022";
+}
+
+.cedu-add-child:before {
+    content: "\c023";
+}
+
+.cedu-proposition-homework2:before {
+    content: "\c024";
+}
+
+.cedu-QnA:before {
+    content: "\c025";
+}
+
+.cedu-FAQ:before {
+    content: "\c0260";
+}
+
+.cedu-unread:before {
+    content: "\c027";
+}
+
+.cedu-reaad:before {
+    content: "\c028";
+}
+
+.cedu-web:before {
+    content: "\c029";
+}
+
+.cedu-notes:before {
+    content: "\c030";
+}
+
+
+/* 涓崡鎺ュ叆lms 鏂板 */
+.cedu-zn-res:before {
+    content: "\d001";
+}
+
+.cedu-zn-personmeg:before {
+    content: "\d002";
+}
+
+.cedu-zn-finance:before {
+    content: "\d003";
+}
+
+.cedu-zn-link:before {
+    content: "\d004";
+}
+
+.cedu-zn-map:before {
+    content: "\d005";
+}
+
+.cedu-zn-xueji:before {
+    content: "\d006";
+}
+
+.cedu-zn-download:before {
+    content: "\d007";
+}
+
+.cedu-zn-statistics:before {
+    content: "\d008";
+}
+
+.cedu-zn-ques:before {
+    content: "\d009";
+}
+
+.cedu-zn-custom1:before {
+    content: "\d010";
+}
+
+.cedu-zn-ask:before {
+    content: "\d011";
+}
+
+.cedu-zn-apply:before {
+    content: "\d012";
+}
+
+.cedu-zn-pause:before {
+    content: "\d013";
+}
+
+.cedu-zn-play:before {
+    content: "\d014";
+}
+
+.cedu-zn-phone:before {
+    content: "\d015";
+}
+
+.cedu-zn-code:before {
+    content: "\d016";
+}
+
+.cedu-dxres:before {
+    content: "\d017";
+}
+
+.cedu-fxres:before {
+    content: "\d018";
+}
+
+.cedu-onlinework:before {
+    content: "\d019";
+}
+
+.cedu-offlinework:before {
+    content: "\d020";
+}
+
+.cedu-zn-picture:before {
+    content: "\d021";
+}
+
+.cedu-zn-audio:before {
+    content: "\d022";
+}
+
+/* 瀛﹀垎閾惰椤圭洰[鐩磋] 鏂板 */
+.cedu-patrol-home:before {
+    content: "\e001";
+}
+
+.cedu-patrol-homeHover:before {
+    content: "\e002";
+}
+
+.cedu-patrol-data:before {
+    content: "\e003";
+}
+
+.cedu-patrol-monitor:before {
+    content: "\e004";
+}
+
+.cedu-patrol-manage:before {
+    content: "\e005";
+}
+
+.cedu-patrol-edit:before {
+    content: "\e006";
+}
+
+.cedu-patrol-delete:before {
+    content: "\e007";
+}
+
+.cedu-patrol-enabled:before {
+    content: "\e008";
+}
+
+.cedu-patrol-disable:before {
+    content: "\e009";
+}
+
+.cedu-patrol-import:before {
+    content: "\e010";
+}
+
+.cedu-patrol-export:before {
+    content: "\e011";
+}
+
+.cedu-patrol-check:before {
+    content: "\e012";
+}
+
+.cedu-patrol-audit:before {
+    content: "\e013";
+}
+
+.cedu-patrol-site:before {
+    content: "\e014";
+}
+
+.cedu-patrol-date:before {
+    content: "\e015";
+}
+
+.cedu-patrol-time:before {
+    content: "\e016";
+}
+
+.cedu-patrol-query:before {
+    content: "\e017";
+}
+
+.cedu-patrol-add:before {
+    content: "\e018";
+}
+
+.cedu-patrol-focus:before {
+    content: "\e019";
+}
+
+.cedu-patrol-refresh:before {
+    content: "\e020";
+}
+
+.cedu-patrol-attach:before {
+    content: "\e021";
+}
+
+.cedu-patrol-warn:before {
+    content: "\e022";
+}
+
+.cedu-patrol-tip:before {
+    content: "\e023";
+}
+
+.cedu-patrol-userName:before {
+    content: "\e024";
+}
+
+.cedu-patrol-passWord:before {
+    content: "\e025";
+}
+
+.cedu-patrol-mobileNumber:before {
+    content: "\e026";
+}
+
+.cedu-patrol-identifyCode:before {
+    content: "\e027";
+}
+
+.cedu-patrol-school:before {
+    content: "\e028";
+}
+
+.cedu-patrol-visible:before {
+    content: "\e029";
+}
+
+.cedu-patrol-invisible:before {
+    content: "\e030";
+}
+
+.cedu-exa-open:before {
+    content: "\f001";
+
+}
+
+.cedu-exa-return:before {
+    content: "\f002";
+
+}
+
+.cedu-exa-fullScreen:before {
+    content: "\f003";
+
+}
+
+.cedu-exa-del:before {
+    content: "\f004";
+
+}
+
+.cedu-exa-setUp:before {
+    content: "\f005";
+
+}
+
+.cedu-exa-text:before {
+    content: "\f006";
+
+}
+
+.cedu-exa-eraser:before {
+    content: "\f007";
+
+}
